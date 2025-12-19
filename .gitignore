@@ -1,0 +1,21 @@
+# Marp generated files
+dist/
+
+# Node modules
+node_modules/
+
+# npm
+package-lock.json
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
