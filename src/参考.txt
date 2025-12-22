@@ -1,0 +1,9 @@
+変更に強いアーキテクチャについて
+https://qiita.com/lobin-z0x50/items/39131a4f47ed7c5df443
+
+「良い設計」は誰のため？
+https://codezine.jp/article/detail/21430
+https://www.docswell.com/s/tyonekubo/5R2Y4E-architecture2design
+
+「レガシーコードからの脱却」のメモ
+https://qiita.com/taketora/items/186fc63a6e77e29dfa65

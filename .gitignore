@@ -1,6 +1,9 @@
 # Marp generated files
 dist/
 
+# Presentation script (personal notes)
+発表原稿.md
+
 # Node modules
 node_modules/
 
